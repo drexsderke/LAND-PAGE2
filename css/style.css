@@ -59,6 +59,19 @@ button{
     /* END OF CSS FOR NAV */
 
 
-    
+
 
     /* CSS FOR THE INFO-AREA */
+.Info-Area{
+    margin-top: 200px;
+    margin-left: 120px;
+    position: absolute;
+}
+img {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: -1; 
+    
+  }
+
