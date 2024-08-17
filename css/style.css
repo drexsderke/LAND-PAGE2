@@ -1,5 +1,15 @@
 *{
     font-family:Roboto ;
+    
+}
+p{
+    color: 
+    #505F98;
+    font-size: 12px;
+}
+h1{
+    color:
+    #091133;
 }
 /* CSS FOR NAV */
 button{
@@ -63,7 +73,7 @@ button{
 
     /* CSS FOR THE INFO-AREA */
 .Info-Area{
-    margin-top: 200px;
+    margin-top: 10px;
     margin-left: 120px;
     position: absolute;
 }
@@ -72,6 +82,46 @@ img {
     bottom: 0;
     right: 0;
     z-index: -1; 
-    
-  }
+   height: 780px;
+   width: 780px;
+   gap: 0px;
+   opacity: 0.5px;
+   }
+   
+   #intro-product{
+    width: 539px;
+     height: 132px;
+    font-size: 50px; }
+
+
+    #purchase{
+
+        width: 189px;
+        height: 36px;
+        color: white;
+         }
+
+    #learn-more{
+        width: 189px;
+       height: 36px;
+      gap: 10px;
+     border: 2px solid;
+     border-color: #091133;
+     color: #091133;
+     background-color: white;
+     border-color: #091133;
+
+
+    }
+    .buttons2{
+        display: flex;
+        gap: 20px;
+    }
+
+    /* #purchase{
+
+width: 189px;
+height: 36px;
+color: white;
+ } */
 
