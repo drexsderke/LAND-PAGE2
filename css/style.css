@@ -18,6 +18,7 @@ color: #505F98;
 display: flex;
 gap : 260px;
 align-items: start;
+justify-content: center;
 }
 
 button{
@@ -43,5 +44,14 @@ button{
         text-decoration: none;
         color:#505F98;
         }
+
+        .button1{
+            margin-top: 20px;
+            margin-left: 90px;
+        }
+        .Landing-Text{
+            padding-right: 40px;
+        }
+
     
     /* END OF CSS FOR NAV */
