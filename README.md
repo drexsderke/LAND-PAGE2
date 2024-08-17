@@ -1,1 +1,0 @@
-the start over of the project , this is beginning again with more organised and ready code, different from the other one, im done with the navbar
