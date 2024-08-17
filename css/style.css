@@ -1,0 +1,47 @@
+*{
+    font-family:Roboto ;
+}
+/* CSS FOR NAV */
+button{
+    cursor: pointer;
+}
+
+
+ul{
+display: flex;
+gap : 50px;
+color: #505F98;
+}
+
+
+.nav{
+display: flex;
+gap : 260px;
+align-items: start;
+}
+
+button{
+    background-color:  #111B47;
+    
+    color: white;
+    width: 160px;
+    height: 26px;
+    text-decoration: none;
+    box-shadow: none;
+    border: none;
+    border-radius: 2px;
+    }
+
+    li{
+        text-decoration: none;
+        list-style: none;
+        color: #505F98;
+        }
+        
+        
+        a{
+        text-decoration: none;
+        color:#505F98;
+        }
+    
+    /* END OF CSS FOR NAV */
