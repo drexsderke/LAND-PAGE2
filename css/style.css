@@ -74,7 +74,7 @@ button{
     /* CSS FOR THE INFO-AREA */
 .Info-Area{
     margin-top: 60px;
-    margin-left: 150px;
+    margin-left: 130px;
     position: absolute;
 }
 img {
@@ -82,8 +82,8 @@ img {
     bottom: 0;
     right: 0;
     z-index: -1; 
-   height: 780px;
-   width: 780px;
+   height: 730px;
+   width: 730px;
    gap: 0px;
    opacity: 0.5px;
    }
@@ -126,3 +126,4 @@ height: 36px;
 color: white;
  } */
 
+/* END OF CSS CODE FOR INFO AREA */
