@@ -7,10 +7,8 @@ p{
     #505F98;
     font-size: 18px;
 }
-h1{
-    color:
-    #091133;
-}
+ 
+
 
 
 /* CSS FOR NAV */
@@ -99,7 +97,8 @@ img {
    #intro-product{
     width: 539px;
      height: 100px;
-    font-size: 50px; }
+    font-size: 50px; 
+         color: #091133;}
 
 
     #purchase{
