@@ -332,3 +332,29 @@ margin-top: 20px;
 
 
 /* FOOTER START */
+.footer-s{
+    background-color: #E7ECFF;
+    margin-top: 200px;
+    width: cover;
+    height: 216px;
+}
+.footer-nav-1{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-nav-1 button{
+    margin-top: 25px;
+    margin-right: 10px;
+    width: 109px;
+    height: 26px;
+}
+.footer-nav-1 h1{
+    color: #37447E;
+    font-size: 26px;
+}
+.footer-nav-1 p{
+    font-size: 14px;
+    color: #939EA4;
+    padding-top: 20px;
+    padding-left: 50px;
+}
