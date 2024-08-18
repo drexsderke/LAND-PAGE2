@@ -315,11 +315,12 @@ margin-top: 20px;
 .purchase-6 p{
     font-size: 14px;
     color: #5D6970;
+    margin-left: 15px;
 }
 .span-6{
     justify-content: center;
     align-self: center;
-    padding-left: 160px;
+    padding-left: 200px;
 }
 
 .price-6{
