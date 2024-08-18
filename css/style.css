@@ -6,6 +6,7 @@ p{
     color: 
     #505F98;
     font-size: 18px;
+    
 }
  
 
@@ -81,7 +82,7 @@ button{
 .Info-Area{
     margin-top: 60px;
     margin-left: 130px;
-    position: absolute;
+    position: relative;
 }
 img {
     position: absolute;
@@ -136,6 +137,10 @@ color: white;
 /* END OF CSS CODE FOR INFO AREA */
 
 /* PAGE NO.2 */
+
+/* .section-pg-2{
+    display: flex;
+    flex-wrap: wrap; */
 
 
 
