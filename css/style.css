@@ -138,6 +138,10 @@ color: white;
 
 /* END OF CSS CODE FOR INFO AREA */
 
+
+
+
+
 /* PAGE NO.2 */
 
 .section-pg-2{
@@ -201,17 +205,32 @@ color: white;
 /* PAGE 2 CSS END */
 
 
-/* PAGE 3,4,5 CSS START */
-/* .section-pg-3{
-    /* height: 800px; */
-    /* margin-top: 0px;
-    padding-top: 300px;
- }
-.img-pg-3{position: absolute;
- bottom: 400;
- left: 0;
- z-index: -1; 
-height: 730px;
-width: 730px;
 
-} */ 
+
+
+/* PAGE 3 START */
+.img-pg-3{
+    width: 480px;
+    height: 316px;
+}
+.section-div-3{
+    display: flex;
+    align-content:flex-start;
+    align-items:center;
+    margin-left:50px;
+}
+
+#section-3-h1{
+    font-size: 36px;
+}
+.section-3-p{
+    font-size: 16px;
+}
+.text-pg-3{
+    padding-left: 150px;
+}
+.section-pg-3{
+    height: 500px;
+    margin-top: 100px;
+    /* align-content:flex-start; */
+}
