@@ -143,28 +143,31 @@ color: white;
 .section-pg-2{
     display: flex;
     margin-top: 200px;
-    margin-left: 40px;
+    margin-left: 100px;
    
     
    }
    .under-info{
     display: flex;
-    gap: 40px;
-    margin-top: 40px;
+    gap: 50px;
+    margin-top: 50px;
+    
     
    }
     
    
-   .img-2 {
+   #img-2 {
     position: absolute;
     bottom: 400;
     right: 0;
     z-index: -1; 
-   height: 730px;
-   width: 730px;
+   height: 540px;
+   width: 520px;
    gap: 0px;
    opacity: 0.5px;
-   margin-bottom: 11100px;
+   padding-top: 100px;
+   
+   /* margin-bottom: 11100px; */
    }
 
    
@@ -179,7 +182,7 @@ color: white;
    }
 
 .info-page2{
-    margin-top: 350px;
+    margin-top: 250px;
 }
 .section-pg-2{
     height: 800px;
@@ -191,4 +194,24 @@ color: white;
 #pg2-h1{
     font-size: 36px;
 }
+.icons{
+    width: 36px;
+    height: 36px;
+}
 /* PAGE 2 CSS END */
+
+
+/* PAGE 3,4,5 CSS START */
+/* .section-pg-3{
+    /* height: 800px; */
+    /* margin-top: 0px;
+    padding-top: 300px;
+ }
+.img-pg-3{position: absolute;
+ bottom: 400;
+ left: 0;
+ z-index: -1; 
+height: 730px;
+width: 730px;
+
+} */ 
