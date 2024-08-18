@@ -8,6 +8,8 @@ p{
     font-size: 18px;
     
 }
+
+
  
 
 
@@ -80,11 +82,11 @@ button{
 
     /* CSS FOR THE INFO-AREA */
 .Info-Area{
-    margin-top: 60px;
+    margin-top: 130px;
     margin-left: 130px;
     position: relative;
 }
-img {
+.image1 {
     position: absolute;
     bottom: 0;
     right: 0;
@@ -138,9 +140,55 @@ color: white;
 
 /* PAGE NO.2 */
 
-/* .section-pg-2{
+.section-pg-2{
     display: flex;
-    flex-wrap: wrap; */
+    margin-top: 200px;
+    margin-left: 40px;
+   
+    
+   }
+   .under-info{
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+    
+   }
+    
+   
+   .img-2 {
+    position: absolute;
+    bottom: 400;
+    right: 0;
+    z-index: -1; 
+   height: 730px;
+   width: 730px;
+   gap: 0px;
+   opacity: 0.5px;
+   margin-bottom: 11100px;
+   }
 
+   
+   /* .page-2{
+    display: flex;
+    flex-direction: row-reverse;
+   } */
 
+.p-page1{
+   color: #5D6970;
+   font-size: 12px;
+   }
 
+.info-page2{
+    margin-top: 350px;
+}
+.section-pg-2{
+    height: 800px;
+}
+
+#pg2-p{
+    font-size: 16px;
+}
+#pg2-h1{
+    font-size: 36px;
+}
+/* PAGE 2 CSS END */
